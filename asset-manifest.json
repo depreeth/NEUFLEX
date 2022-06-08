@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NEUFLEX/static/css/main.e8db7758.css",
+    "main.js": "/NEUFLEX/static/js/main.2ab8261b.js",
+    "index.html": "/NEUFLEX/index.html",
+    "main.e8db7758.css.map": "/NEUFLEX/static/css/main.e8db7758.css.map",
+    "main.2ab8261b.js.map": "/NEUFLEX/static/js/main.2ab8261b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8db7758.css",
+    "static/js/main.2ab8261b.js"
+  ]
+}
